@@ -38,6 +38,7 @@
         android:title="@string/menu_hide_substratum"
         android:showAsAction="never" />
     <item
+<<<<<<< HEAD
         android:id="@+id/show_substratum_icons"
         android:title="@string/menu_show_substratum_icons"
         android:showAsAction="never" />
@@ -46,6 +47,8 @@
         android:title="@string/menu_hide_substratum_icons"
         android:showAsAction="never" />
     <item
+=======
+>>>>>>> 518ca56... OMS7-N: Apps: show/hide Substratum overlays [2/2]
         android:id="@+id/sort_order_alpha"
         android:title="@string/sort_order_alpha"
         android:showAsAction="never" />
