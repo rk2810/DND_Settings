@@ -45,5 +45,13 @@ limitations under the License.
     <color name="storage_private_3">#fff2a600</color>
     <color name="storage_private_4">#ffec407a</color>
     <color name="storage_private_5">#ffc0ca33</color>
+<<<<<<< HEAD
 >>>>>>> f3bf381... Settings: Expose storage icon colors
+=======
+
+    <!-- Linear color bar -->
+    <color name="linear_color_bar_left">@*android:color/material_deep_teal_500</color>
+    <color name="linear_color_bar_middle">@*android:color/material_deep_teal_500</color>
+    <color name="linear_color_bar_right">#ffced7db</color>
+>>>>>>> 6d761e9... Settings: Expose LinearColorBar default colors
 </resources>
